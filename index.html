@@ -19,9 +19,34 @@ title: "Project ULTRApod - Welcome!"
     <div id="midbox" class="grid_4">
 	<div class="box">
       <h1>News & Updates</h1> 
-      Nam faucibus rutrum diam ut mollis. Aliquam erat volutpat. Maecenas in erat non erat placerat mattis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi non lobortis magna. Sed quis mi ipsum, nec suscipit nisl. Duis ac elementum sapien. In lorem purus, pellentesque id malesuada ut, congue id eros. Maecenas lectus tortor, ornare ac mattis quis, hendrerit quis lectus. Vestibulum eget arcu sem.
-
-      Duis elementum mollis est, sit amet pharetra nisl dignissim et. Cras egestas lorem nec felis tincidunt lobortis. Quisque accumsan commodo nunc ac viverra. Mauris quam diam, vehicula non ultrices hendrerit, pharetra eget turpis.
+   <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 2,
+  interval: 30000,
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#444444',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#444444',
+      color: '#ffffff',
+      links: '#4c85ff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('projectultrapod').start();
+</script>  
     </div></div>
     <div id="rightbox" class="grid_4 omega">
 	<div class="box">
