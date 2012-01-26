@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="author" content="Usnish B. Majumdar" />
+    <meta name="robots" content="{{page.index}}INDEX,{{page.follow}}FOLLOW" />
+    {% if page.description %}
+    <meta name="description" content="{{page.description}}" />
+    {% else %}
+    <meta name="description" content="{{site.description}}" />
+    {% endif %}
+    {% if page.categories %}
+    <meta name="keywords" content="{{page.categories | join: ','}}" />
+    {% else %}
+    <meta name="keywords" content="{{site.keywords | join: ','}}" />
+    {% endif %}
     <!-- CSS Reset -->
     <link rel="stylesheet" type="text/css" href="http://ultrapod.github.com/css/reset.css" /> 
     <!-- 960 GS -->
