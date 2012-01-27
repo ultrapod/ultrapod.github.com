@@ -3,6 +3,7 @@ layout: post
 title: About The ULTRApod Project
 ---
 The following is a short video advertisement depicting the concept:
+
 <iframe width="960" height="518" src="http://www.youtube.com/embed/17cr_nqG45c" frameborder="0" allowfullscreen></iframe>
 
 Hundreds of thousands of people in countries like Bangladesh rely on pathogen-laced river water for their daily supply of water. Developing nations lack the infrastructure and the power capability to process water in rural regions, so despite the abundance of local water from rivers and streams, getting water is either difficult (well water) or dangerous (water-borne diseases are leading causes of death in developing nations). These people need a solution, and we think we have one.
