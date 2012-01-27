@@ -2,6 +2,7 @@
 layout: post
 title: About The ULTRApod Project
 ---
+<iframe width="640" height="360" src="http://www.youtube.com/embed/MN-F504VEmE?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 Hundreds of thousands of people in countries like Bangladesh rely on pathogen-laced river water for their daily supply of water. Developing nations lack the infrastructure and the power capability to process water in rural regions, so despite the abundance of local water from rivers and streams, getting water is either difficult (well water) or dangerous (water-borne diseases are leading causes of death in developing nations). These people need a solution, and we think we have one.
 
 The concept is deceptively simple. Use the river to clean the river. Flowing water stores huge amounts of power; it has an energy density 850 times that of flowing air. Our innovation, the ULTRApod, uses a submerged hydrokinetic turbine to convert this energy into electricity. This electricity is then used to power an ultraviolet filtration and pump system. As long as there is water flowing in the river, the ULTRApod can pump potable water to a station on the bank. The best part? Because ULTRApod operation is completely renewable, the ULTRApod adds no greenhouse gases or other chemicals into the environment.
