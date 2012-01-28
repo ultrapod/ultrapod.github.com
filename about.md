@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About The ULTRApod Project
+title: about project ultrapod
 ---
 The following is a short video advertisement depicting the concept:
 
@@ -11,6 +11,7 @@ The following is a short video advertisement depicting the concept:
 <p>The concept is deceptively simple. <b>Use the river to clean the river</b>. Flowing water stores huge amounts of power; it has an energy density 850 times that of flowing air. Our innovation, the ULTRApod, uses a submerged hydrokinetic turbine to convert this energy into electricity. This electricity is then used to power an ultraviolet filtration and pump system. As long as there is water flowing in the river, the ULTRApod can pump potable water to a station on the bank. The best part? Because ULTRApod operation is completely renewable, the ULTRApod adds no greenhouse gases or other chemicals into the environment.</p>
 
 <p>Samuel Taylor Coleridge published the famous "The Rime of the Ancient Mariner" in 1798. Over two hundred years later, isn't it time for there be water, water everywhere that's safe enough to drink?</p>
+
 Quick Stats:
 Number of children who die of diarrhea every year: 14 million
 Estimated Device Cost: $250
