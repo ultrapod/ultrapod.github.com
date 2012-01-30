@@ -3,7 +3,6 @@ layout: post
 title: About - project ultrapod
 description: "This is an introduction to the ultrapod device and its workings."
 ---
-The following is a short video advertisement depicting the concept:
 
 <object width="960" height="518"><param name="movie" value="http://www.youtube.com/v/17cr_nqG45c?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/17cr_nqG45c?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="960" height="518" allowscriptaccess="always" allowfullscreen="true"></embed></object> </br>
 
