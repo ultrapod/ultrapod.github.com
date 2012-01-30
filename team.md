@@ -9,10 +9,14 @@ title: The Team
 ##The Founding Four
 
 Our team was founded by four high school students from Northern Virginia, the original CIRPSICSR team at SOIA.
+
 -The Dear Leader, Daniel Jang.
+
 -Public Relations Maestro and Mad Scientist, Usnish Majumdar
+
 -The Technomage, Sam Girvin
 and
+
 -The Business Czar and Carbon Credits Connoisseur, Meredith Burkle.
 
 Some personal details: Daniel never ever sleeps and can't understand why others do, Usnish discourses freely about neurobiology, Sam is a long-distance runner, and Meredith spends her free time swimming with the fishies.
