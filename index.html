@@ -11,7 +11,7 @@ title: "Project ULTRApod - Welcome!"
   <span class="orbit-caption" id="galleryimg2-caption">Photo credit <a href="http://www.flickr.com/photos/jnyemb/">jnyemb</a>.</span>
 <div id="bottomchunk_outside">
   <div id="bottomchunk" class="container_12">
-    <div id="leftbox" class ="grid_4 alpha"> 
+    <div id="leftbox" class ="grid_4 alpha">
 	<div class="box">
     <h1>The Concept</h1>
     <p>Hundreds of thousands of people in countries like Bangladesh rely on pathogen-laced river water for their daily supply of water. Developing nations lack the infrastructure and the power capability to process water in rural regions, so despite the abundance of local water from rivers and streams, getting water is either difficult (well water) or dangerous (water-borne diseases are leading causes of death in developing nations). These people <b>need</b> a solution, and <b>we think we have one.</b></p>
@@ -21,8 +21,11 @@ title: "Project ULTRApod - Welcome!"
     </div></div>
     <div id="midbox" class="grid_4">
 	<div class="box">
-      <h1>News & Updates</h1> 
-
+      <h1>News & Updates</h1>
+      {% for post in site.posts limit: 4 %}
+      <span class="date"></span>
+      <a href="{{ post.url }}" class="posttitle">{{ post.title }}</a>
+      {% endfor %}
       <h1 id="twit-header">Twitter</h1> <div id="twitter-follow">(<a href="http://www.twitter.com/projectultrapod">@projectultrapod</a>)</div>
       <div id="twitter">
         <ul id="twitter_update_list"></ul>
@@ -37,5 +40,5 @@ title: "Project ULTRApod - Welcome!"
     <div class="event"><div class="event_date">January 19, 2012</div><a href="http://conradawards.org/blogs/17/842/so-i-challenge-alumni-recognized">National Council for Science and Environment: National Conference on Environment and Security</a><div class="event_loc">Washington, DC</div></div>
     </div></div>
 
-  </div> 
+  </div>
 </div>
