@@ -6,3 +6,15 @@ layout: default
 {{ content }}
 <div class="fb-comments" data-href="http://ultrapod.github.com" data-num-posts="5" data-width="960"></div>
 </div>
+<script type="text/javascript">
+$(document).ready(function(){
+
+  $(".rounded-img, .rounded-img2").load(function() {
+    $(this).wrap(function(){
+      return '<span class="' + $(this).attr('class') + '" style="background:url(' + $(this).attr('src') + ') no-repeat center center; width: ' + $(this).width() + 'px; height: ' + $(this).height() + 'px;" />';
+    });
+    $(this).css("opacity","0");
+  });
+
+});
+</script>
