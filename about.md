@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About - project ultrapod
+title: About
 description: "This is an introduction to the ultrapod device and its workings."
 ---
 
