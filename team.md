@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The Team - project ultrapod
 ---
 <img src="http://i.imgur.com/jpNo7.jpg" title="team picture" alt="team picture"/>
