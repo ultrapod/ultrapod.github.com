@@ -10,10 +10,10 @@ title: Blog Post Listing
         <span class="day">{{ post.date | date: '%d' }}</span>
         <span class="month"><abbr>{{ post.date | date: '%b' }}</abbr>,</span>
         <span class="year">{{ post.date | date: '%Y' }}</span>
-      </span>
+      </span> &raquo;
       <span class="title">{{ post.title }}</span>
     </a>
-    <div class="postcontentpreview">{{ post.content | truncatewords: 30 }}</span> &hellip;
+    <div class="postcontentpreview">{{ post.content | truncatewords: 30 }}</span>
     <a href="{{ post.url }}" title="{{ post.title }}" class="readmore">Read More</a>
   </li>
   {% endfor %}
