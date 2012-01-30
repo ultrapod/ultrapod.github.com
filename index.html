@@ -23,7 +23,7 @@ title: "Project ULTRApod - Welcome!"
 	<div class="box">
       <h1>News & Updates</h1>
       {% for post in site.posts limit: 4 %}
-      <span class="date">{{ post.date | date_to_string }}</span>
+      <span class="date">{{ post.date | date_to_string }} - </span>
       <a href="{{ post.url }}" class="posttitle">{{ post.title }}</a>
       {% endfor %} </br>
       <h1 id="twit-header">Twitter</h1> <div id="twitter-follow">(<a href="http://www.twitter.com/projectultrapod">@projectultrapod</a>)</div>
