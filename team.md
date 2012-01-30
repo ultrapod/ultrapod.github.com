@@ -2,7 +2,9 @@
 layout: post
 title: The Team
 ---
-<img src="http://i.imgur.com/jpNo7.jpg" alt="team picture" width="720" height="479" class="center rounded-img"/>
+<img src="http://i.imgur.com/jpNo7.jpg" alt="team picture" class="center rounded-img"/>
+<img src="http://i.imgur.com/EjY1g.jpg" alt="team picture" class="center rounded-img"/>
+
 
 ##The Founding Four
 
