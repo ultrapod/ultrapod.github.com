@@ -21,7 +21,7 @@ title: "Project ULTRApod - Welcome!"
       <h1>News & Updates</h1>
       {% for post in site.posts limit: 4 %}
       <span class="date">{{ post.date | date_to_string }} - </span>
-      <a href="{{ post.url }}" class="posttitle">{{ post.title }}</a>
+      <a href="{{ post.url }}" class="posttitle">{{ post.title }}</a><br />
       {% endfor %} </br>
 
     <h1>Upcoming Events</h1>
